@@ -117,3 +117,14 @@ body {
   margin-top: 5%;
   margin-bottom: 40%;
 }
+
+.about{
+  background-color: #c1c1c1;
+}
+.container{
+  border: solid #6d5646 2px;
+}
+.about .container .caption h2{
+  color: #6d5646;
+  font-family: "Righteous"
+}
