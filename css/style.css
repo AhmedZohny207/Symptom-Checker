@@ -240,3 +240,8 @@ body {
 .statistics .container .box p {
   font-size: 14px;
 }
+/* start footer */
+#footer-icon:hover{
+  color: tomato;
+}
+/* End footer */
